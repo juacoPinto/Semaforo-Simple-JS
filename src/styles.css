@@ -1,0 +1,91 @@
+#barra {
+	background-color: black;
+	width: 20px;
+	height: 150px;
+	margin: auto;
+}
+
+#semaforo {
+	background-color: black;
+	width: 150px;
+	height: 400px;
+	margin: auto;
+	border-radius: 10px;
+	padding-top: 20px;
+}
+.luz {
+	margin: auto;
+	width: 120px;
+	height: 120px;
+	border-radius: 100%;
+}
+.roja {
+	background-color: red;
+}
+
+.amarilla {
+	margin-top: 10px;
+	background-color: yellow;
+}
+.verde {
+	margin-top: 10px;
+	background-color: green;
+}
+#encendida {
+	box-shadow: 0 0 30px #ffffff;
+}
+
+/* body {
+	background-color: grey;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+button {
+	background-color: transparent;
+	border: none;
+	width: 65px;
+	height: 65px;
+}
+
+.TrafficLight {
+	background-color: black;
+	width: 120px;
+	height: 240px;
+	border-radius: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.redLight {
+	background-color: red;
+	width: 65px;
+	height: 65px;
+	border-radius: 100%;
+	margin-bottom: 140px;
+}
+
+.yellowLight {
+	background-color: yellow;
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	border-radius: 100%;
+}
+
+.greenLight {
+	background-color: green;
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	border-radius: 100%;
+
+	margin-top: 140px;
+}
+
+.iluminado {
+	box-shadow: 0 0 60px rgb(181, 241, 13);
+}
+ */
